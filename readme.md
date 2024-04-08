@@ -1,14 +1,18 @@
 # ali-react-table
 
-## 开发者平时工作实在太忙了，近期项目无法进行积极维护，抱歉。
+> ## 开发者平时工作实在太忙了，近期项目无法进行积极维护，抱歉。
+**由于[原项目](https://github.com/alibaba/ali-react-table)长时间没有维护，所以这里克隆了一份用来解决一些问题及添加一些功能**
 
-[![NPM Package](https://img.shields.io/npm/v/ali-react-table?style=flat-square)](https://www.npmjs.org/package/ali-react-table)
+**期待神王回归😘**
+
+
+[![NPM Package](https://img.shields.io/npm/v/ali-react-table-yet?style=flat-square)](https://www.npmjs.org/package/ali-react-table-yet)
 
 高性能 React 表格组件. https://ali-react-table.js.org/
 
 ## 安装
 
-`npm install ali-react-table`
+`npm install ali-react-table-yet`
 
 ## 特点
 

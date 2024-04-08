@@ -1,3 +1,4 @@
-GitHub: https://github.com/alibaba/ali-react-table
+
+GitHub: https://github.com/zhang0ZGC/ali-react-table
 
 website: https://ali-react-table.js.org/
